@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <Copyright>Copyright (c) 2023 Maksim Gritsenko</Copyright>
+    <Authors>Maksim Gritsenko</Authors>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+</Project>
